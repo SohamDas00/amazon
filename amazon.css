@@ -1,6 +1,6 @@
 *{
     margin: 0;
-    border: border-box;
+    box-sizing: border-box;
     font-family: Arial;
 }
 .navbar{
@@ -232,7 +232,7 @@
 }
 .mess {
     background-color: white;
-    font-size: black;
+    color: black;
     display: flex;
     align-items: center;
     height: 40px;
